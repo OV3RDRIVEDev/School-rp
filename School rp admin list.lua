@@ -18,6 +18,7 @@ return {
 		["RankPoint"] = 35,
 		["players"] = {
 			--Equipe de build
+			"0V3RDRIVE_Dev",      --Alcatraz
 			"mathis83game",      --Alcatraz
 
 		}
