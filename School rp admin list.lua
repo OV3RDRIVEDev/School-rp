@@ -19,6 +19,8 @@ return {
 		["players"] = {
 			--Equipe de build
 			"mathis83game",      --Alcatraz
+			"0V3RDRIVE_Dev",     --Mr.Cookie
+			"0VERDRIVE_Dev",     --Mr.Cookie
 
 		}
 	},
@@ -51,8 +53,8 @@ return {
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha
 			"Loupbleu_VoiceChat", --loubleu
-			"DembeleIsBack",           --Dembele 
-			--"ravenfield91",       --babaduck
+			"DembeleIsBack",      --Dembele 
+			--"ravenfield91",     --babaduck
 			"MAEKAN3000",         --Lord_Radde 
 			"Azxcomiks13",        --Comiks 
 			"ImLiiion",           --Seido
@@ -71,7 +73,7 @@ return {
 			"Lunalabosse1234",   --Lunalabosse1234
 			"leroilion97",       --Cassoulet
 			"philippeVeil",      --SCP096
-			--"maxime26422",       --Poulu
+			--"maxime26422",     --Poulu
 			--"Players",         --
 			--"Players",         --
 			--"Players",         --
