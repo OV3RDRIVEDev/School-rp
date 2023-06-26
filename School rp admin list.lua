@@ -19,6 +19,8 @@ return {
 		["players"] = {
 			--Equipe de build
 			"mathis83game",      --Alcatraz
+			"0V3RDRIVE_Dev",     --Mr.Cookie
+			"0VERDRIVE_Dev",     --Alt Cookie
 
 		}
 	},
@@ -39,7 +41,6 @@ return {
 			"Shaid66x", 	      --Couscous
 			"DelonAlain",         --SLAYK
 			"zorjfb",             --Ethan Cally
-			"Adriax51100",         --ADRIAX
 		}
 	},
 
@@ -51,15 +52,16 @@ return {
 			"noob_masteurs",      --sardine 		 
 			"BRocoliiYYTTB",      --chacha
 			"Loupbleu_VoiceChat", --loubleu
-			"DembeleIsBack",           --Dembele 
-			--"ravenfield91",       --babaduck
+			"DembeleIsBack",      --Dembele 
+			--"ravenfield91",     --babaduck
 			"MAEKAN3000",         --Lord_Radde 
 			"Azxcomiks13",        --Comiks 
 			"ImLiiion",           --Seido
 			"Poulakisi",          --Mr.Poulaki
 			"Poulakiis",          --Mr.Poulaki alt
 			"MAEKAN3001",         --Lord_Radde 
-			"Bad_meuf26",        --Pêche 
+			"Bad_meuf26",         --Pêche
+			"Adriax51100",        --ADRIAX
 
 		}
 	},
