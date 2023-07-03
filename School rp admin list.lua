@@ -17,11 +17,8 @@ return {
 		["RankPoint"] = 45,
 		["players"] = {
 			--Equipe de build
-			--"Players",         --
-		        --"0V3RDRIVE_Dev",     --Mr.Cookie
-			--"0VERDRIVE_Dev",     --ALT Cookie
-			--"mathis83game",      -- Alcatraz
-			--"Players",         --
+		        "0V3RDRIVE_Dev",     --Mr.Cookie
+			"0VERDRIVE_Dev",     --ALT Cookie
 		}
 	},
 
@@ -38,7 +35,11 @@ return {
 		["Name"] = "Super Admin",
 		["RankPoint"] = 30,
 		["players"] = {
-			--"zorjfb",             --ethan
+			"zorjfb",             --ethan
+			"DelonAlain",         --SLAYK
+			"Shaid66x", 	      --Couscous
+			"ImLiiion",           --Seido
+
 		}
 	},
 
@@ -47,6 +48,20 @@ return {
 		["Name"] = "Admin",
 		["RankPoint"] = 20,
 		["players"] = {
+			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
+			"noob_masteurs",      --sardine 		 
+			"Lunalabosse1234",     --Lunalabosse1234
+			"DembeleIsBack",      --Dembele 
+			"ravenfield91",     --babaduck
+			"MAEKAN3000",         --Lord_Radde 
+			"Azxcomiks13",        --Comiks 
+			"Poulakisi",          --Mr.Poulaki
+			"Poulakiis",          --Mr.Poulaki alt
+			"MAEKAN3001",         --Lord_Radde 
+			"Bad_meuf26",         --Pêche
+			"Adriax51100",        --ADRIAX
+			"leroilion97",       --Cassoulet
+			"philippeVeil",      --SCP096
 			
 		}
 	},
@@ -55,26 +70,7 @@ return {
 		["Name"] = "Modo",
 		["RankPoint"] = 5,
 		["players"] = {
-			--"HyerToujoursBan",   --Hyers
-			"BRocoliiYYTTB",     --chacha
-			"Loupbleu_VoiceChat", --loubleu //NE PAS SUPPRIMER SAUF URGENCE
-
-			--"noob_masteurs",      --sardine 		 
-			--"Lunalabosse1234",     --Lunalabosse1234
-			--"DembeleIsBack",      --Dembele 
-			"ravenfield91",     --babaduck
-			--"MAEKAN3000",         --Lord_Radde 
-			--"Azxcomiks13",        --Comiks 
-			--"ImLiiion",           --Seido
-			"Poulakisi",          --Mr.Poulaki
-			--"Poulakiis",          --Mr.Poulaki alt
-			--"MAEKAN3001",         --Lord_Radde 
-			--"Bad_meuf26",         --Pêche
-			--"Adriax51100",        --ADRIAX
-			--"leroilion97",       --Cassoulet
-			--"philippeVeil",      --SCP096
-			--"Shaid66x", 	      --Couscous
-			--"DelonAlain",         --SLAYK
+		        "HyerToujoursBan",   --Hyers
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         -- 
@@ -89,7 +85,6 @@ return {
 		["Name"] = "Developpeur",
 		["RankPoint"] = 3,
 		["players"] = {
-			--"HyerToujoursBan", --Hyers
 			--"Players",         --
 			--"Players",         -- 
 			--"Players",         --
